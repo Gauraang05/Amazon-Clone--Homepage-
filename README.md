@@ -8,4 +8,4 @@ Features
 
 To view the clone project, click on the link -> 
 https://gauraang05.github.io/Amazon-Clone-Homepage/
-<img width="735" height="208" alt="Screenshot 2025-07-25 191745" src="https://github.com/user-attachments/assets/426d2759-85dc-4dc1-ac52-8e07fd50d911" />
+
